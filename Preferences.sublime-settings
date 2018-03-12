@@ -1,8 +1,8 @@
 # sublime-settings
 
 {
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
   "word_wrap": true,
   "open_files_in_new_window": false,
   "close_windows_when_empty": true,
